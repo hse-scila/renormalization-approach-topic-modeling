@@ -1,4 +1,4 @@
-# Renormalization LDA GS
+# Renormalization LDA GS + GLDA
 
 The program contains a procedure of renormalization with three types of selecting topics for merging. To select the type one has to set the value of variable `col_rem_alg`, where
 
