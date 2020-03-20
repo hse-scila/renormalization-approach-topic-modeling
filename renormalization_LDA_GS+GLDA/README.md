@@ -1,3 +1,5 @@
+# Renormalization LDA GS
+
 The program contains a procedure of renormalization with three types of selecting topics for merging. To select the type one has to set the value of variable `col_rem_alg`, where
 
 1. Merging of random columns
@@ -9,4 +11,3 @@ Binary file `nw` contains W\*K matrix of counters showing how many times word "w
 Binary file `nwsum` is a K-vector containing counters which show how many tokens were assigned to topic "k".
 
 Examples of such files are provided for Lenta dataset in the folder `pyRenormalize_Lenta`. 
-
